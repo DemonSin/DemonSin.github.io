@@ -15,15 +15,15 @@ comment:
 
 # Social
 social:
-    # weibo: 5366874726 
+    # weibo: 
     github: DemonSin
     # twitter: 
     mail: 1263662845@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-baidu:
-    id: 18382570976
+# baidu:
+    # id: 
 
 permalink: /:year/:month/:title/
 # Format
