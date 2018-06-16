@@ -6,7 +6,7 @@ description: 哈喽哈~
 avatarTitle: 长歌短笛
 # 头像里面的描述
 avatarDesc: 逆向 / 算法
-url: "http://Demonsin.github.io"
+url: "https://demonsin.github.io"
 
 # Comment
 comment:
@@ -22,8 +22,8 @@ social:
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
- baidu:
-     id: 长歌短笛
+baidu:
+    id: 长歌短笛
 
 permalink: /:year/:month/:title/
 # Format
