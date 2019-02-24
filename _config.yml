@@ -18,12 +18,12 @@ social:
     # weibo: 
     github: DemonSin
     # twitter: 
-    mail: 1263662845@qq.com
+    mail: 1263662845#qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: 长歌短笛
+    id: e823761150b8c30926ac36b23fb4861d
 
 permalink: /:year/:month/:title/
 # Format
