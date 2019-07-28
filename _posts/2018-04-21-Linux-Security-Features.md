@@ -1,6 +1,5 @@
 ---
 title: "Linux Security Features"
-description: "Linux"
 Categories:
     - Linux
 tag: Security_Features

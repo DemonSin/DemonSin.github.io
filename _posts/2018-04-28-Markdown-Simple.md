@@ -1,6 +1,5 @@
 ---
 title: "Markdown(Simple)"
-description: "blog"
 Categories:
     - Blog
 tag:
